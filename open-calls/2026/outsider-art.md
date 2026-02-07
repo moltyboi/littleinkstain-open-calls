@@ -4,6 +4,36 @@ Open calls with explicit or strong implicit alignment to outsider art, art brut,
 
 ---
 
+## Active Calls
+
+### OffBeat Art Club ⭐ RECOMMENDED
+**Organiser:** OffBeat / Staffordshire St (Peckham)
+**Location:** London
+**Deadline:** 15 February 2026
+**Mediums:** Craft, print, painting, mixed media, small sculpture, object-based
+**Themes:** "Weird and wonderful", vernacular, folk, "slightly off-centre", outsider-adjacent
+**Submission Fee:** £8 (1 work), £15 (2 works), £20 (3 works) — fee waiver available
+**Exhibition Fee:** None
+**Commission:** 50% on sales
+**Audience:** London Craft Week visitors (~100,000 across week), 63K+ Instagram followers
+**Reputational Signal:** Medium-High (established platform, major reach)
+**URL:** curatorspace.com/opportunities/detail/offbeat-art-club/10215
+
+**Notes:**
+- "Celebrating the weird and wonderful artwork which might not always find a home in exhibitions"
+- "Particularly interested in work that feels thoughtful rather than polished"
+- "Practices that sit slightly outside dominant commercial or institutional aesthetics"
+- "Platform under-represented artists"
+- Curated with Wilfrid Wood
+- Part of London Craft Week (8-17 May 2026)
+- Includes weekend market stall opportunity (no stall fee)
+- High visibility via OffBeat channels (1M+ monthly reach)
+
+**Recommendation:** ★★★★★
+**Action:** SUBMIT — Excellent alignment, massive reach, reasonable cost
+
+---
+
 ## Template
 
 ```markdown
@@ -29,18 +59,12 @@ Open calls with explicit or strong implicit alignment to outsider art, art brut,
 
 ---
 
-## Active Calls
-
-*No active calls logged yet. Populate through research.*
-
----
-
 ## Upcoming / Recurring
 
 ### Outside In Open (Annual)
 **Organiser:** Outside In / Pallant House Gallery
 **Location:** Chichester, UK
-**Deadline:** Typically Feb–March
+**Deadline:** Typically Feb–March (check outsidein.org.uk)
 **Mediums:** All
 **Themes:** Outsider artists, self-taught, facing barriers to the art world
 **Submission Fee:** Free
@@ -51,10 +75,10 @@ Open calls with explicit or strong implicit alignment to outsider art, art brut,
 **Past Artists:** Wide range of UK outsider artists
 **URL:** outsidein.org.uk
 
-**Notes:** Key annual opportunity. High alignment. Should submit every year.
+**Notes:** Key annual opportunity. High alignment. Check for 2026 dates.
 
 **Recommendation:** ★★★★★
-**Action:** Submit when open
+**Action:** Monitor and submit when open
 
 ---
 
