@@ -1,84 +1,74 @@
 # Mental Health Open Calls — 2026
 
-Open calls from mental health organisations, hospital arts programmes, therapeutic settings, and initiatives focused on psychological wellbeing.
+Open calls from mental health organisations, health awareness initiatives, and opportunities focused on psychological experience.
 
 ---
 
 ## Active Calls
 
-### The Weight of Waiting ⭐ URGENT
-**Organiser:** The House of Smalls
-**Location:** Edinburgh, UK
-**Deadline:** 7 February 2026 ⚠️ TODAY
-**Mediums:** All (max 110cm top edge)
-**Themes:** Women's healthcare delays, missed/late diagnosis, psychological distress from waiting
-**Submission Fee:** £35 per work (main space), £15 (dollhouse space)
+### Scars of Gold II ⭐⭐ EXCEPTIONAL
+**Organiser:** Mortal And Strong (Charity)
+**Location:** UK (exhibition 2027)
+**Deadline:** 8 April 2026
+**Mediums:** All — artists work in own medium/style
+**Themes:** Health awareness, life-changing health conditions, inequalities in health, resilience, lived experience
+**Submission Fee:** FREE
 **Exhibition Fee:** None
-**Commission:** 10%
-**Audience:** Edinburgh art scene, women's health advocacy
-**Reputational Signal:** Medium (independent, trauma-focused)
-**URL:** curatorspace.com/opportunities/detail/the-weight-of-waiting/10023
+**Commission:** 50% to charity (optional 100% donation)
+**Audience:** Health advocacy, press, institutional
+**Reputational Signal:** High (major charity campaign, previous season successful)
+**URL:** https://www.curatorspace.com/opportunities/detail/scars-of-gold-ii--presented-by-mortal-and-strong/9916
 
-**Notes:** 
-- Women/female artists only
-- Explicitly welcomes anonymous/pseudonymous submissions
-- "Safe and intimate environment primarily for women artists to exhibit personal, intuitive and thought-provoking work"
-- "Often rooted in trauma and activism"
-- Exhibition: 6 March - 4 April 2026
+**Notes:**
+- **HIGHLY ALIGNED** — Art for health awareness, lived experience focus
+- Paired with "Voices" (people facing health conditions) to create inspired work
+- Previous season: 100 artworks, 100 voices, 160+ health topics covered
+- Includes any gender, any health condition, carers
+- "Inspired by Japanese Kintsugi — using gold to amplify strength borne of scars"
+- Work produced after pairing/keywords (by Dec 2026), exhibited 2027
+- "Unlike any exhibition process you have been part of"
+- Exhibition + auction in 2027
 
 **Recommendation:** ★★★★★
-**Action:** SUBMIT TODAY IF ELIGIBLE (women only, mental health lived experience)
+**Action:** SUBMIT — Exceptional alignment, meaningful impact, charity visibility
 
 ---
 
-### Pickled Magazine Issue #1: "Brine" ⭐ RECOMMENDED
-**Organiser:** Pickled Magazine (new publication)
-**Location:** West Yorkshire, UK (print distribution North England)
-**Deadline:** 13 February 2026
-**Mediums:** Visual art, writing, mixed
-**Themes:** "Raw, sweet and sour emotions" — authentic emotional expression
-**Submission Fee:** FREE
-**Exhibition Fee:** N/A
+### Inexpressible ⭐ RECOMMENDED  
+**Organiser:** Sightlines Projects / Fringe Arts Bath
+**Location:** Bath, UK
+**Deadline:** 10 April 2026
+**Mediums:** Short film/video (up to 10 min, MP4)
+**Themes:** Expressing the inexpressible, psychological response to overwhelming world
+**Submission Fee:** FREE to apply, £25 if selected
+**Exhibition Fee:** £25 artist contribution
 **Commission:** N/A
-**Audience:** Independent print readers, Northern arts community
-**Reputational Signal:** Low-Medium (new publication, building)
-**URL:** curatorspace.com/opportunities/detail/pickled-magazine-issue--submission-call-out/10132
+**Audience:** 8,500+ festival visitors
+**Reputational Signal:** Medium (established festival since 2007)
+**URL:** https://www.curatorspace.com/opportunities/detail/inexpressible/10282
 
 **Notes:**
-- "For individuals that don't fear to express their emotions"
-- "Don't be scared to be honest; we welcome all authentic and true ways of self-expression"
-- Print-only magazine, 50 copies first run
-- Submit up to 3 projects (images or writing)
-- NO AI work accepted
-- Free submission = low barrier
+- "Express what may feel inexpressible by other means"
+- "Sometimes words can feel inadequate"
+- For artists "interested in responding to the world we live in"
+- Experimental, non-prescriptive approach welcomed
+- Part of Fringe Arts Bath Festival (22 May - 6 June 2026)
+- Only relevant if artist works in video/film
 
-**Recommendation:** ★★★★☆
-**Action:** SUBMIT — Zero cost, high thematic alignment
+**Recommendation:** ★★★★☆ (if video work exists)
+**Action:** Consider if moving image is part of practice
 
 ---
 
-## Template
+### The Weight of Waiting — CLOSED
+**Deadline:** 7 February 2026 (passed)
+**Notes:** Women's healthcare delays, misdiagnosis theme. Archive for next year.
 
-```markdown
-### [Call Name]
-**Organiser:** 
-**Location:** 
-**Deadline:** 
-**Mediums:** 
-**Themes:** 
-**Submission Fee:** 
-**Exhibition Fee:** 
-**Commission:** 
-**Audience:** 
-**Reputational Signal:** Low / Medium / High
-**Past Artists:** 
-**URL:** 
+---
 
-**Notes:**
-
-**Recommendation:** ★☆☆☆☆ to ★★★★★
-**Action:** Submit / Consider / Monitor / Skip
-```
+### Pickled Magazine "Brine" — DEADLINE PASSED
+**Deadline:** 13 February 2026 (passed)
+**Notes:** "Raw, sweet and sour emotions" — monitor for future issues.
 
 ---
 
@@ -87,47 +77,24 @@ Open calls from mental health organisations, hospital arts programmes, therapeut
 ### Bethlem Gallery
 **Location:** Bethlem Royal Hospital, London
 **Focus:** Art by people with mental health experience
-**Programme:** Exhibitions, commissions, permanent collection
 **URL:** bethlemgallery.com
-
-**Notes:** Historic institution. Artist must have mental health lived experience. Very high alignment. Check "For Artists" section for open calls.
-
----
+**Notes:** Check regularly for open calls. Very high alignment.
 
 ### Hospital Rooms
 **Location:** Various NHS mental health units, UK
-**Focus:** Commissioning art for mental health wards
-**Programme:** Artist commissions, sometimes open calls
 **URL:** hospital-rooms.com
-
-**Notes:** Commission-based. Work installed in working mental health facilities. Meaningful impact.
-
----
+**Notes:** Commission-based for mental health ward installations.
 
 ### Koestler Arts
-**Location:** UK-wide
-**Focus:** Arts in criminal justice (prisons, secure hospitals, community sentences)
-**Programme:** Annual awards, exhibitions
+**Location:** UK-wide (criminal justice settings)
 **URL:** koestlerarts.org.uk
-
-**Notes:** Specific eligibility criteria. High impact if eligible.
-
----
+**Notes:** Specific eligibility. Annual awards.
 
 ### Project Art Works
 **Location:** Hastings, UK
-**Focus:** Neurodivergent and learning disabled artists
-**Programme:** Studio membership, exhibitions, commissions
+**Focus:** Neurodivergent artists
 **URL:** projectartworks.org
 
-**Notes:** Collaborative model. Very high alignment with neurodivergent identity.
-
 ---
 
-## Closed / Past
-
-*Archive closed calls here for reference and pattern tracking.*
-
----
-
-Last updated: 2026-02-07
+Last updated: 2026-02-08
